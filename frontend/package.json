@@ -19,10 +19,6 @@
     "chart.js": "^4.0.0",
     "react-chartjs-2": "^5.0.0",
     "@mapbox/mapbox-gl-geocoder": "^5.0.0",
-    "mapbox-gl": "^2.0.0",
-    "helmet": "^7.0.0",
-    "xss-clean": "^0.1.1",
-    "express-rate-limit": "^7.0.0",
-    "express-validator": "^7.0.1"
+    "mapbox-gl": "^2.0.0"
   }
 }
